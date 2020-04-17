@@ -1,1 +1,7 @@
+server:
+  port: 81
 
+url:
+  myUrl: http://www.baidu.com
+  youUrl: hahaha
+  allUrl: heiheihei
